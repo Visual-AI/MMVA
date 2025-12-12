@@ -9,7 +9,9 @@ The University of Hong Kong · ByteDance
 
 <sup>\*</sup>Equal contribution &nbsp;&middot;&nbsp; <sup>†</sup>Corresponding author
 
-[![Demo Video](assets/teaser.jpg)](https://github.com/Visual-AI/MMVA/raw/main/assets/demo.mp4)
+<div align="center">
+<video src="https://github.com/Visual-AI/MMVA/raw/main/assets/demo.mp4" width="100%" controls autoplay loop></video>
+</div>
 
 ---
 
