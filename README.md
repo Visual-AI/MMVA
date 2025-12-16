@@ -2,7 +2,7 @@
 
 [![Project Page](https://img.shields.io/badge/Project-Page-2ea44f)](https://arxiv.org/abs/2512.13677)
 [![UniAvatar-Bench](https://img.shields.io/badge/UniAvatar--Bench-2ea44f?style=flat-square)](https://visual-ai.github.io/jova/)
-[![Paper](https://img.shields.io/badge/Paper-arXiv-TBD-B31B1B.svg)](TBD)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B.svg)](https://arxiv.org/abs/2512.13677)
 
 Xiaohu Huang<sup>\*</sup>, Hao Zhou<sup>\*</sup>, Qiangpeng Yang, Shilei Wen, Kai Han<sup>†</sup>  
 The University of Hong Kong · ByteDance  
